@@ -1,5 +1,5 @@
 # pytorch-basic-model
 
-1. CNN architecture code
-2. RNN architecture code
-3. GAN architecture code
+1. Convolutional Neural Network
+2. Recurrent Neural Network
+3. Generative Adversarial Network
